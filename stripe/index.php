@@ -24,7 +24,7 @@
         <script
             src="https://checkout.stripe.com/checkout.js"
             class="stripe-button"
-            data-key="pk_test_FdfrPkiQ3WgprJDsXZb5cXGl00Q9MpzBQY"
+            data-key="ENTRER ICI LA DATA-KEY"
             data-name="Concessionnaire"
             data-description="Achat et Ventes de véhicules"
             data-image=""
